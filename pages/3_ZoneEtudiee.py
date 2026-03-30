@@ -3,7 +3,7 @@ from utils.menu import show_menu
 
 show_menu()
 
-st.title("📅 Économie")
+st.title("📍 Zone étudiée")
 
 
 REGIONS = ["IGB", "Africa", "data_augmentation\\IGB", "data_augmentation\\Africa"]
